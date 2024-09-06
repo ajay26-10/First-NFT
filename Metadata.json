@@ -1,0 +1,23 @@
+{
+    "description": "This is an abstact painting of visualization of a peaceful mind", 
+    "external_url": "https://kba.ai/", 
+    "image": "https://azure-kind-kingfisher-763.mypinata.cloud/ipfs/QmTHKQdpC84oCPRnqTWT32jjmJG2K17wJviEYqxc9VMFEQ", 
+    "name": "Thomas Shelby",
+    "attributes": [ {
+        "trait_type": "Base", 
+        "value": "Shark"
+      }, 
+      {
+        "trait_type": "Eyes", 
+        "value": "Small"
+      }, 
+      {
+        "trait_type": "Mouth", 
+        "value": "Angry"
+      }, 
+      {
+        "trait_type": "Level", 
+        "value": 5
+      }
+    ]
+}
